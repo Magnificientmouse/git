@@ -1,4 +1,4 @@
 # Python code #
 int a= 100, b=200;
-printf(a*b)
+print(a*b)
 # second commit
